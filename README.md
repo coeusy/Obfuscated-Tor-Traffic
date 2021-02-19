@@ -10,6 +10,8 @@ Three kinds of Obfuscated Tor Traffic: Meek-based Tor traffic, Obfs4-based Tor t
 
 ## Access
 202.120.1.156:xxxx
+
 username: tor
-password: \*\*\*\*\*\*\*\*\*(please send email to 389370297@sjtu.edu.cn)
+
+password: xxxxxxxxx(please send email to 389370297@sjtu.edu.cn)
 
