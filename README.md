@@ -9,7 +9,7 @@ Three kinds of Obfuscated Tor Traffic: Meek-based Tor traffic, Obfs4-based Tor t
 | Obfs4  | 190.2.145.7, 51.158.170.28 |
 
 ## Access
-202.120.1.156:xxxx
-username: tor
-password: xxxxxxxxx(please send email to 389370297@sjtu.edu.cn)
+202.120.1.156:xxxx  
+username: tor  
+password: xxxxxxxxx(please send email to 389370297@sjtu.edu.cn)  
 
